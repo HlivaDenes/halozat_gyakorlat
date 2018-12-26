@@ -32,6 +32,7 @@
 1. Forgalomirányító konfigurációjának mentése, firmware frissítése.
 1. Forgalomirányító gyári alapértelmezett beállításainak visszaállítása.
 <br>
+
             6.3.3. Vezeték nélküli kapcsolatok kialakítása	57 óra/54 óra
 1. Vezeték nélküli hálózati kártya telepítése, konfigurációja.
 1. Számítógépek csatlakoztatása vezeték nélküli ad-hoc hálózat segítségével.
@@ -40,6 +41,7 @@
 1. Vezeték nélküli hozzáférés korlátozása.
 1. Bluetooth kapcsolatok kialakítása, adatok és beállítások szinkronizációja.
 <br>
+
             6.3.4. Erőforrások hálózati megosztása	36 óra/36 óra
 1. Hálózati nyomtató hálózatra csatlakoztatása, IP-cím konfigurációja.
 1. Hálózati nyomtató meghajtó programjának telepítése, hálózati nyomtatás beállítása.

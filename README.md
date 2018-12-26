@@ -14,7 +14,7 @@
 1. Kábelteszterek típusai, használatuk.
 1. Kábelek kimérése, mérési jegyzőkönyv készítése.
 1. Kábelek jelölése, kábelmenedzsment.
-
+<br>
 
 
             6.3.2. SOHO hálózat kiépítése 	90 óra/88 óra

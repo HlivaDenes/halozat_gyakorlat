@@ -15,6 +15,8 @@
 1. Kábelek kimérése, mérési jegyzőkönyv készítése.
 1. Kábelek jelölése, kábelmenedzsment.
 
+
+
             6.3.2. SOHO hálózat kiépítése 	90 óra/88 óra
 1. Ethernet hálózati kártya telepítése.
 1. Hálózati kártya konfigurációja: IP-cím, alhálózati maszk, DNS szerver beállítása.

@@ -48,3 +48,98 @@
 1. Egyenrangú (peer-to-peer) hálózat kiépítése, fájlok és mappák megosztása a hálózaton, jogosultságok beállítása.
 1. Munkaállomások tartományba léptetése.
 
+ 
+
+#### FELADATOK
+1. Otthoni és kisvállalati hálózatot telepít, valamint az internetre csatlakoztat
+
+1. Ellenőrzi és javítja a hálózati- és az internet csatlakozást
+
+1. Erőforrásokat oszt meg számítógépek között
+
+1. Otthoni és kisvállalati hálózatok biztonsági veszélyeit felismeri és elhárítja
+
+1. Internetes alkalmazásokat telepít és ellenőriz
+
+1. Alapvető IP-szolgáltatásokat grafikus felületen konfigurál
+
+1. Megérti és felhasználja a szakmai angol nyelvű szöveget
+
+1. Kábelt végződtet, tesztel
+
+1. Hálózati passzív elemek felszerelését ellenőrzi
+
+1. Hálózati dokumentációt értelmez
+
+1. Hálózati diagnosztikai programokat használ
+
+1. Vezeték nélküli hálózatot biztonságossá tesz
+
+1. Firmware frissítést végez, konfigurációt archivál
+
+1. Betartja a munka-, baleset-, tűz- és környezetvédelmi előírásokat
+
+#### SZAKMAI ISMERETEK
+1. Hálózati alapfogalmak
+
+1. Hálózati szerepek
+
+1. Hálózati architektúrák
+
+1. Fizikai- és logikai topológiák
+
+1. Hálózati eszközök, integrált szolgáltatású eszközök
+
+1. Protokollok, szabványosítás
+
+1. OSI és TCP/IP modell, adatbeágyazás
+
+1. Átviteli közegek
+
+1. Strukturált kábelezés, kábelezési szabványok
+
+1. LAN/WAN technológiák, szabványok
+
+1. Vezeték nélküli technológiák, szabványok
+
+1. Közeg-hozzáférési módszerek
+
+1. Fizikai- és logikai címzés
+
+1. IP címzés, címosztályok
+
+1. Címzési sémák (unicast, multicast, broadcast)
+
+1. Nyilvános és publikus címek, NAT
+
+1. Internet szolgáltatások típusai
+
+1. Hálózati szolgáltatások
+
+1. Jogosultságok
+
+1. Hálózati hibaelhárítási stratégiák, diagnosztikai programok
+
+1. Hálózatbiztonsági technológiák
+
+1. Angol nyelvű szakmai kifejezések
+
+1. Munka-, baleset-, tűz- és környezetvédelmi előírások
+
+#### SZAKMAI KÉSZSÉGEK
+1. Eszközök hálózatra csatlakoztatása
+
+1. Integrált szolgáltatású útválasztó konfigurálása
+
+1. UTP kábelek végződtetése
+
+1. Hálózati dokumentáció értelmezése
+
+#### SZEMÉLYES KOMPETENCIÁK
+1. Precizitás
+
+#### MÓDSZERKOMPETENCIÁK
+1. Logikus gondolkodás
+
+1. Áttekintő képesség
+
